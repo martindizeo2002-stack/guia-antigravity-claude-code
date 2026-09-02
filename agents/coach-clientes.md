@@ -1,6 +1,6 @@
 ---
 name: coach-clientes
-description: Consultor de clientes/alumnos. Usalo para armar planes de acción, diagnosticar por qué un cliente está trabado, detectar riesgo de abandono, preparar mensajes de soporte o analizar qué problemas se repiten en la cartera. Tiene acceso a las fichas de clientes y sus interacciones.
+description: Consultor de clientes. Usalo para armar planes de acción, diagnosticar por qué un cliente está trabado, detectar riesgo de abandono, preparar mensajes de soporte o analizar qué problemas se repiten en la cartera. Tiene acceso a las fichas de clientes y sus interacciones.
 tools: Read, Glob, Grep, Write, Bash
 ---
 

@@ -5,7 +5,7 @@ description: Genera reportes pre-call para las próximas llamadas 1a1 con client
 
 Tu tarea es generar reportes pre-call para las próximas llamadas 1a1 con clientes.
 
-**Prerrequisitos:** conexión MCP de Google Calendar armada, y una carpeta `clientes/` (o `alumnos/`) con una ficha `.md` por cliente (quién es, estado, últimos avances, blockers).
+**Prerrequisitos:** conexión MCP de Google Calendar armada, y una carpeta `clientes/` con una ficha `.md` por cliente (quién es, estado, últimos avances, blockers).
 
 ## Paso 1 — Buscar las próximas calls 1a1
 
